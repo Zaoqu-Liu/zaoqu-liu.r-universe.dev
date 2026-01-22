@@ -17,7 +17,8 @@
   },
   {
     "package": "SafeMapper",
-    "url": "https://github.com/Zaoqu-Liu/SafeMapper"
+    "url": "https://github.com/Zaoqu-Liu/SafeMapper",
+    "branch": "main"
   }
 ]
 
