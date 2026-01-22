@@ -2,5 +2,9 @@
   {
     "package": "llmflow",
     "url": "https://github.com/Zaoqu-Liu/llmflow"
+  },
+  {
+    "package": "llmhelper",
+    "url": "https://github.com/Zaoqu-Liu/llmhelper"
   }
 ]
