@@ -1,5 +1,13 @@
 [
   {
+    "package": "scMetaLink",
+    "url": "https://github.com/Zaoqu-Liu/scMetaLink"
+  },
+  {
+    "package": "BioTransition",
+    "url": "https://github.com/SolvingLab/BioTransition"
+  },
+  {
     "package": "llmflow",
     "url": "https://github.com/Zaoqu-Liu/llmflow"
   },
