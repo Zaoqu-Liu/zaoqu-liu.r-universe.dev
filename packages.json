@@ -14,5 +14,9 @@
   {
     "package": "llmhelper",
     "url": "https://github.com/Zaoqu-Liu/llmhelper"
+  },
+  {
+    "package": "SafeMapper",
+    "url": "https://github.com/Zaoqu-Liu/SafeMapper"
   }
 ]
