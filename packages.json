@@ -19,6 +19,9 @@
     "package": "SafeMapper",
     "url": "https://github.com/Zaoqu-Liu/SafeMapper",
     "branch": "main"
+  },
+  {
+    "package": "ggforge",
+    "url": "https://github.com/Zaoqu-Liu/ggforge"
   }
 ]
-
