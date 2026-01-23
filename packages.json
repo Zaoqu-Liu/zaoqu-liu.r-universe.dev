@@ -1,5 +1,10 @@
 [
   {
+    "package": "iTALK",
+    "url": "https://github.com/Zaoqu-Liu/iTALK",
+    "branch": "main"
+  },
+  {
     "package": "SecAct",
     "url": "https://github.com/Zaoqu-Liu/SecAct",
     "branch": "main"
