@@ -27,5 +27,9 @@
   {
     "package": "ggforge",
     "url": "https://github.com/Zaoqu-Liu/ggforge"
+  },
+  {
+    "package": "scTenifoldKnk",
+    "url": "https://github.com/Zaoqu-Liu/scTenifoldKnk"
   }
 ]
