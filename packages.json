@@ -75,5 +75,10 @@
     "package": "Connectome",
     "url": "https://github.com/Zaoqu-Liu/Connectome",
     "branch": "main"
+  },
+  {
+    "package": "MultiK",
+    "url": "https://github.com/Zaoqu-Liu/MultiK",
+    "branch": "main"
   }
 ]
