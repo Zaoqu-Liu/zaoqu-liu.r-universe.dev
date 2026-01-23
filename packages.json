@@ -1,5 +1,9 @@
 [
   {
+    "package": "scPAS",
+    "url": "https://github.com/Zaoqu-Liu/scPAS"
+  },
+  {
     "package": "SVG",
     "url": "https://github.com/Zaoqu-Liu/SVG"
   },
