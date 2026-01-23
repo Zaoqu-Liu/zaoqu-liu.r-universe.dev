@@ -1,5 +1,10 @@
 [
   {
+    "package": "nichenetr",
+    "url": "https://github.com/Zaoqu-Liu/nichenetr",
+    "branch": "master"
+  },
+  {
     "package": "iTALK",
     "url": "https://github.com/Zaoqu-Liu/iTALK",
     "branch": "main"
