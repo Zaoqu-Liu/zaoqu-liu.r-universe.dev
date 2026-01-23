@@ -111,5 +111,10 @@
     "package": "recall",
     "url": "https://github.com/Zaoqu-Liu/recall",
     "branch": "main"
+  },
+  {
+    "package": "tradeSeq",
+    "url": "https://github.com/Zaoqu-Liu/tradeSeq",
+    "branch": "main"
   }
 ]
