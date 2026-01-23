@@ -1,5 +1,9 @@
 [
   {
+    "package": "SVG",
+    "url": "https://github.com/Zaoqu-Liu/SVG"
+  },
+  {
     "package": "scMetaLink",
     "url": "https://github.com/Zaoqu-Liu/scMetaLink"
   },
