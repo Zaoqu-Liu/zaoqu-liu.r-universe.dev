@@ -106,5 +106,10 @@
     "package": "SCEVAN",
     "url": "https://github.com/Zaoqu-Liu/SCEVAN",
     "branch": "main"
+  },
+  {
+    "package": "recall",
+    "url": "https://github.com/Zaoqu-Liu/recall",
+    "branch": "main"
   }
 ]
