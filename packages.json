@@ -91,5 +91,10 @@
     "package": "liana",
     "url": "https://github.com/Zaoqu-Liu/liana",
     "branch": "main"
+  },
+  {
+    "package": "multinichenetr",
+    "url": "https://github.com/Zaoqu-Liu/multinichenetr",
+    "branch": "main"
   }
 ]
