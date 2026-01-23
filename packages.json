@@ -7,7 +7,8 @@
   {
     "package": "SecAct",
     "url": "https://github.com/Zaoqu-Liu/SecAct",
-    "branch": "main"
+    "branch": "main",
+    "subdir": ""
   },
   {
     "package": "scGate",
