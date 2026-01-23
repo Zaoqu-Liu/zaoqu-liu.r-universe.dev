@@ -80,5 +80,10 @@
     "package": "MultiK",
     "url": "https://github.com/Zaoqu-Liu/MultiK",
     "branch": "main"
+  },
+  {
+    "package": "OmnipathR",
+    "url": "https://github.com/Zaoqu-Liu/OmnipathR",
+    "branch": "master"
   }
 ]
