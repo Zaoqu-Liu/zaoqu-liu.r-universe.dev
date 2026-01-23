@@ -101,5 +101,10 @@
     "package": "multinichenetr",
     "url": "https://github.com/Zaoqu-Liu/multinichenetr",
     "branch": "main"
+  },
+  {
+    "package": "SCEVAN",
+    "url": "https://github.com/Zaoqu-Liu/SCEVAN",
+    "branch": "main"
   }
 ]
