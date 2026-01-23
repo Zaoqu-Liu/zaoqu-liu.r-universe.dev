@@ -85,5 +85,10 @@
     "package": "OmnipathR",
     "url": "https://github.com/Zaoqu-Liu/OmnipathR",
     "branch": "master"
+  },
+  {
+    "package": "liana",
+    "url": "https://github.com/Zaoqu-Liu/liana",
+    "branch": "main"
   }
 ]
