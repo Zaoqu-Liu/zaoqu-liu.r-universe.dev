@@ -1,5 +1,10 @@
 [
   {
+    "package": "scGate",
+    "url": "https://github.com/Zaoqu-Liu/scGate",
+    "branch": "main"
+  },
+  {
     "package": "scPAS",
     "url": "https://github.com/Zaoqu-Liu/scPAS"
   },
