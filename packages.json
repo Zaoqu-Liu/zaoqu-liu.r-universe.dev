@@ -65,5 +65,10 @@
     "package": "fastCNV",
     "url": "https://github.com/Zaoqu-Liu/fastCNV",
     "branch": "main"
+  },
+  {
+    "package": "METAFLUX",
+    "url": "https://github.com/Zaoqu-Liu/METAFlux",
+    "branch": "main"
   }
 ]
