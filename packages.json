@@ -1,5 +1,10 @@
 [
   {
+    "package": "SecAct",
+    "url": "https://github.com/Zaoqu-Liu/SecAct",
+    "branch": "main"
+  },
+  {
     "package": "scGate",
     "url": "https://github.com/Zaoqu-Liu/scGate",
     "branch": "main"
