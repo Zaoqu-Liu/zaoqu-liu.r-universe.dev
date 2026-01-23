@@ -70,5 +70,10 @@
     "package": "METAFLUX",
     "url": "https://github.com/Zaoqu-Liu/METAFlux",
     "branch": "main"
+  },
+  {
+    "package": "Connectome",
+    "url": "https://github.com/Zaoqu-Liu/Connectome",
+    "branch": "main"
   }
 ]
