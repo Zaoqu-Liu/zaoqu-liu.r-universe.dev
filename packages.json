@@ -50,5 +50,10 @@
     "package": "SCENT",
     "url": "https://github.com/Zaoqu-Liu/SCENT",
     "branch": "main"
+  },
+  {
+    "package": "SpaTalk",
+    "url": "https://github.com/Zaoqu-Liu/SpaTalk",
+    "branch": "main"
   }
 ]
