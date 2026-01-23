@@ -60,5 +60,10 @@
     "package": "SpaTalk",
     "url": "https://github.com/Zaoqu-Liu/SpaTalk",
     "branch": "main"
+  },
+  {
+    "package": "fastCNV",
+    "url": "https://github.com/Zaoqu-Liu/fastCNV",
+    "branch": "main"
   }
 ]
