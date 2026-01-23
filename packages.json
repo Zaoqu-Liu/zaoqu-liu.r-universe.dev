@@ -40,5 +40,10 @@
   {
     "package": "scTenifoldKnk",
     "url": "https://github.com/Zaoqu-Liu/scTenifoldKnk"
+  },
+  {
+    "package": "SCENT",
+    "url": "https://github.com/Zaoqu-Liu/SCENT",
+    "branch": "main"
   }
 ]
