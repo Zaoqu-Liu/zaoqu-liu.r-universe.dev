@@ -136,5 +136,10 @@
     "package": "SpaGER",
     "url": "https://github.com/Zaoqu-Liu/SpaGER",
     "branch": "main"
+  },
+  {
+    "package": "CellOracleR",
+    "url": "https://github.com/Zaoqu-Liu/CellOracleR",
+    "branch": "main"
   }
 ]
