@@ -126,5 +126,10 @@
     "package": "scPharm",
     "url": "https://github.com/Zaoqu-Liu/scPharm",
     "branch": "main"
+  },
+  {
+    "package": "hdWGCNA",
+    "url": "https://github.com/Zaoqu-Liu/hdWGCNA",
+    "branch": "main"
   }
 ]
