@@ -141,5 +141,10 @@
     "package": "CellOracleR",
     "url": "https://github.com/Zaoqu-Liu/CellOracleR",
     "branch": "main"
+  },
+  {
+    "package": "COMMOTR",
+    "url": "https://github.com/Zaoqu-Liu/COMMOTR",
+    "branch": "main"
   }
 ]
