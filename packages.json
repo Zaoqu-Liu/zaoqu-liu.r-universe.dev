@@ -151,5 +151,10 @@
     "package": "CytoSPACER",
     "url": "https://github.com/Zaoqu-Liu/CytoSPACER",
     "branch": "main"
+  },
+  {
+    "package": "STRIDER",
+    "url": "https://github.com/Zaoqu-Liu/STRIDER",
+    "branch": "main"
   }
 ]
