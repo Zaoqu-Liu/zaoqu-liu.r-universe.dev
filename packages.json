@@ -121,5 +121,10 @@
     "package": "tradeSeq",
     "url": "https://github.com/Zaoqu-Liu/tradeSeq",
     "branch": "main"
+  },
+  {
+    "package": "scPharm",
+    "url": "https://github.com/Zaoqu-Liu/scPharm",
+    "branch": "main"
   }
 ]
