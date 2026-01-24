@@ -146,5 +146,10 @@
     "package": "COMMOTR",
     "url": "https://github.com/Zaoqu-Liu/COMMOTR",
     "branch": "main"
+  },
+  {
+    "package": "CytoSPACER",
+    "url": "https://github.com/Zaoqu-Liu/CytoSPACER",
+    "branch": "main"
   }
 ]
