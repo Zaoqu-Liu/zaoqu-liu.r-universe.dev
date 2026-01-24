@@ -1,5 +1,10 @@
 [
   {
+    "package": "yaGST",
+    "url": "https://github.com/miccec/yaGST",
+    "branch": "master"
+  },
+  {
     "package": "nichenetr",
     "url": "https://github.com/Zaoqu-Liu/nichenetr",
     "branch": "master"
