@@ -161,5 +161,10 @@
     "package": "scaper",
     "url": "https://github.com/Zaoqu-Liu/scaper",
     "branch": "main"
+  },
+  {
+    "package": "darwin",
+    "url": "https://github.com/Zaoqu-Liu/darwin",
+    "branch": "main"
   }
 ]
