@@ -156,5 +156,10 @@
     "package": "STRIDER",
     "url": "https://github.com/Zaoqu-Liu/STRIDER",
     "branch": "main"
+  },
+  {
+    "package": "scaper",
+    "url": "https://github.com/Zaoqu-Liu/scaper",
+    "branch": "main"
   }
 ]
