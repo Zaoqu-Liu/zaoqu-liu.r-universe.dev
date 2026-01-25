@@ -176,5 +176,10 @@
     "package": "scVeloR",
     "url": "https://github.com/Zaoqu-Liu/scVeloR",
     "branch": "main"
+  },
+  {
+    "package": "FastCCCR",
+    "url": "https://github.com/Zaoqu-Liu/FastCCCR",
+    "branch": "main"
   }
 ]
