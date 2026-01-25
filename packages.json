@@ -181,5 +181,10 @@
     "package": "FastCCCR",
     "url": "https://github.com/Zaoqu-Liu/FastCCCR",
     "branch": "main"
+  },
+  {
+    "package": "MAGICR",
+    "url": "https://github.com/Zaoqu-Liu/MAGICR",
+    "branch": "main"
   }
 ]
