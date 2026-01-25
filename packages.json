@@ -166,5 +166,10 @@
     "package": "darwin",
     "url": "https://github.com/Zaoqu-Liu/darwin",
     "branch": "main"
+  },
+  {
+    "package": "CellODE",
+    "url": "https://github.com/Zaoqu-Liu/CellODE",
+    "branch": "main"
   }
 ]
