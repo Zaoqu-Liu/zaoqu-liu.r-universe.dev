@@ -171,5 +171,10 @@
     "package": "CellODE",
     "url": "https://github.com/Zaoqu-Liu/CellODE",
     "branch": "main"
+  },
+  {
+    "package": "scVeloR",
+    "url": "https://github.com/Zaoqu-Liu/scVeloR",
+    "branch": "main"
   }
 ]
