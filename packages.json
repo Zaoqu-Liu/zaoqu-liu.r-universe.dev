@@ -186,5 +186,10 @@
     "package": "MAGICR",
     "url": "https://github.com/Zaoqu-Liu/MAGICR",
     "branch": "main"
+  },
+  {
+    "package": "TorchDecon",
+    "url": "https://github.com/Zaoqu-Liu/TorchDecon",
+    "branch": "main"
   }
 ]
