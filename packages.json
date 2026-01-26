@@ -201,5 +201,10 @@
     "package": "NOVA",
     "url": "https://github.com/Zaoqu-Liu/NOVA",
     "branch": "main"
+  },
+  {
+    "package": "CellProgramMapper",
+    "url": "https://github.com/Zaoqu-Liu/CellProgramMapper",
+    "branch": "main"
   }
 ]
