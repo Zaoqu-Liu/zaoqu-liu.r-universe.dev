@@ -191,5 +191,10 @@
     "package": "TorchDecon",
     "url": "https://github.com/Zaoqu-Liu/TorchDecon",
     "branch": "main"
+  },
+  {
+    "package": "scClustEval",
+    "url": "https://github.com/Zaoqu-Liu/scClustEval",
+    "branch": "main"
   }
 ]
