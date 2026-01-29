@@ -206,5 +206,10 @@
     "package": "CellProgramMapper",
     "url": "https://github.com/Zaoqu-Liu/CellProgramMapper",
     "branch": "main"
+  },
+  {
+    "package": "SCORPION",
+    "url": "https://github.com/Zaoqu-Liu/SCORPION",
+    "branch": "main"
   }
 ]
