@@ -1,5 +1,10 @@
 [
   {
+    "package": "MOFSR",
+    "url": "https://github.com/Zaoqu-Liu/MOFSR",
+    "branch": "master"
+  },
+  {
     "package": "yaGST",
     "url": "https://github.com/miccec/yaGST",
     "branch": "master"
