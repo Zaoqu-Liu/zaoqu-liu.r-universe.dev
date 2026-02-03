@@ -221,5 +221,10 @@
     "package": "scFOCAL",
     "url": "https://github.com/Zaoqu-Liu/scFOCAL",
     "branch": "main"
+  },
+  {
+    "package": "cellGeometry",
+    "url": "https://github.com/Zaoqu-Liu/cellGeometry",
+    "branch": "main"
   }
 ]
