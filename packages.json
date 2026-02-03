@@ -216,5 +216,10 @@
     "package": "SCORPION",
     "url": "https://github.com/Zaoqu-Liu/SCORPION",
     "branch": "main"
+  },
+  {
+    "package": "scFOCAL",
+    "url": "https://github.com/Zaoqu-Liu/scFOCAL",
+    "branch": "main"
   }
 ]
